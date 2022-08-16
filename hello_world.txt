@@ -1,1 +1,3 @@
 This is my first hello_world text in GitHub!!
+
+Trying out the commit message editor here
